@@ -1,7 +1,7 @@
 
-# Projeto Onion (cebola)
+# Projetos console para saídas de dados
 
-Porjetos console com implementação de interpolação (exercicício 1) e parse (exercício 2) 
+Projetos console com implementação de interpolação (exercicício 1) e parse (exercício 2) 
 
 ## Pré requisitos
  
