@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aZZNyzBLhKBdqhBLJAn9/15Dl1N0521zE24UgiRhZ4Ts+pZIMs3NJYzZ3rKTC79Ddh5xTC/46d/zLYIDecjpfg==",
+  "success": true,
+  "projectFilePath": "E:\\APLICAÇÕES E CURSOS\\CURSOS e TREINAMENTOS\\2020\\C# COMPLETO OOP + Projetos\\Seção 3\\Secao3_Exerc1\\Secao3_Exerc1\\Secao3_Exerc1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

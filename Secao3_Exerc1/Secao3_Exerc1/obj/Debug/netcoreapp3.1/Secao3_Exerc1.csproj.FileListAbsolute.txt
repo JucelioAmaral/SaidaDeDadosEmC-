@@ -1,0 +1,26 @@
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.exe
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.deps.json
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.runtimeconfig.json
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.runtimeconfig.dev.json
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.dll
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.pdb
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.csprojAssemblyReference.cache
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.csproj.CoreCompileInputs.cache
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.AssemblyInfoInputs.cache
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.AssemblyInfo.cs
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.dll
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.pdb
+C:\Users\Jucelio\Documents\My documents\CURSOS\2021\C# COMPLETO OOP + Projetos\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.genruntimeconfig.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.exe
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.deps.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.runtimeconfig.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.runtimeconfig.dev.json
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\bin\Debug\netcoreapp3.1\Secao3_Exerc1.pdb
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.csprojAssemblyReference.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.AssemblyInfoInputs.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.AssemblyInfo.cs
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.csproj.CoreCompileInputs.cache
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.dll
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.pdb
+E:\APLICAÇÕES E CURSOS\CURSOS e TREINAMENTOS\2020\C# COMPLETO OOP + Projetos\Seção 3\Secao3_Exerc1\Secao3_Exerc1\obj\Debug\netcoreapp3.1\Secao3_Exerc1.genruntimeconfig.cache
