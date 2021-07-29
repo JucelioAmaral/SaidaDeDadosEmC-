@@ -1,7 +1,7 @@
 
 # Projetos console para saídas de dados
 
-Projetos console com implementação de interpolação (exercicício 1) e parse (exercício 2) 
+Projetos console com implementação de interpolação (Secao3_Exerc1) e parse (Secao3_Exerc2) 
 
 ## Pré requisitos
  
